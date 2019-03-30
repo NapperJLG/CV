@@ -36,3 +36,8 @@ Engineer/Production Assistant/Customer Support
 Biomedical Scientist (Band 5)
 **Armchair Partners Ltd.** (August 2012 - October 2012)
 Online Poker Marketing Intern
+
+## Interests
+
+- Keen musician - Play guitar, bass and drums in a variety of bands
+- Enjoy watching and playing American Football
