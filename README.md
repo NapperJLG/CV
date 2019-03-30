@@ -1,50 +1,38 @@
-## Your Name
+## Jake Napper
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I get a kick out of problem solving, seek to work with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. For these reasons, I decided to take a leap of faith and enroll at Makers Academy.
 
 ## Skills
 
-#### This Skill
+#### Troubleshooting & Problem solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time.
 
-- Experience
-- Achievements
-- Evidence
+#### Self Directed Learning
 
-#### Another Skill
+- When I joined AusDiagnostics, the robots that I was tasked with maintaining had never had any maintainance performed on them before. Through reading the manual and a bit of trial and error, I wrote a monthly and biannual maintanance protocol for the robots. I then trained all new members of staff to follow these protocols.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- I started learning to code by teaching myself HTML/CSS via online tutorials. While these tutorials helped me discover my love of coding, I felt that joining Makers and working with other likeminded individuals would help me turn coding from a hobby into a career.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Working in different group sizes
+
+Over the course of my career, I have worked in different team sizes ranging from 3-4 people at my last role, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own and part of a team and have always formed strong working relationships with colleauges in every role.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2019 - Present)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### University of Kent (September 2010 - June 2012)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Biomedical Science (2:2)
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**AusDiagnostics** (August 2016 - March 2019)    
+Engineer/Production Assistant/Customer Support 
+**Histology Department @ Wycombe General Hospital** (January 2013 – August 2016)   
+Biomedical Scientist (Band 5)
+**Armchair Partners Ltd.** (August 2012 - October 2012)
+Online Poker Marketing Intern
