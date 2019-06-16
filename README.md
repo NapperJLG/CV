@@ -26,7 +26,7 @@ I get a kick out of problem solving, seek to work with brand new technology as i
 
 ## Education
 
-#### Makers Academy (March 2019 - Present)
+#### Makers Academy (March 2019 - June 2019)
 
 - Web development bootcamp with an emphasis on self directed learning
 - TDD and code quality at the core of every project 
