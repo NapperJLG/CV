@@ -2,6 +2,16 @@
 
 I get a kick out of problem solving, seek to work with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. As I went from making basic websites in HTML and CSS in my spare time to writing scripts for liquid handling robots at a medical diagnostics company, I knew that coding was something I was passionate about and wanted to pursue as a career. I decided to take a leap of faith and enroll at Makers Academy to give me that first step into the world of professional software development. After an intense and incredibly enjoyable twelve weeks, I feel that I have the necessary skills to hit the ground running as a junior developer.
 
+## Project showcase
+
+Project | Description | Tech Used | GitHub link
+------- | ----------- | --------- | ----------
+[Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
+[AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
+
+
+
+
 ## Skills
 
 #### Troubleshooting & Problem solving
@@ -51,3 +61,10 @@ Online Poker Marketing Intern
 
 - Keen musician - Play guitar, bass and drums in a variety of bands, as well as regular performances at Hip Hop Karaoke!
 - Enjoy watching and playing American Football
+
+### Contact
+
+- [GitHub](https://github.com/NapperJLG)
+- [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
+
+
