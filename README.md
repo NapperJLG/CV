@@ -1,5 +1,5 @@
 ## Jake Napper 
-### [GitHub](https://github.com/NapperJLG) [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
+### [GitHub](https://github.com/NapperJLG) // [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
 
 I get a kick out of problem solving, seek to work with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. I've gone from making basic websites in HTML and CSS in my spare time to writing scripts for liquid handling robots at a medical diagnostics company. This journey led me to realise that that coding was something I was passionate about and wanted to pursue as a career. As an engineer, I knew I wouldn' get the opportunity to code as much as I would like. I decided to take a leap of faith and enroll at Makers Academy to give me that first step into the world of professional software development. After an intense and incredibly enjoyable twelve weeks, my love of coding has only increased and I am extremely excited to get into my first junior developer role.
 
