@@ -1,7 +1,7 @@
 ## Jake Napper 
 ### [GitHub](https://github.com/NapperJLG) // [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
 
-I get a kick out of problem solving, seek to work with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. I've gone from making basic websites in HTML and CSS in my spare time to writing scripts for liquid handling robots at a medical diagnostics company. This journey led me to realise that that coding was something I was passionate about and wanted to pursue as a career. As an engineer, I knew I wouldn' get the opportunity to code as much as I would like. I decided to take a leap of faith and enroll at Makers Academy to give me that first step into the world of professional software development. After an intense and incredibly enjoyable twelve weeks, my love of coding has only increased and I am extremely excited to get into my first junior developer role.
+I get a kick out of problem solving, seek to work with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. I've gone from making basic websites in HTML and CSS in my spare time to writing scripts for liquid handling robots at a medical diagnostics company. This journey led me to realise that that coding was something I was passionate about and wanted to pursue as a career. As an engineer, I knew I wouldn't get the opportunity to code as much as I would like. I decided to take a leap of faith and enroll at Makers Academy to give me that first step into the world of professional software development. After an intense and incredibly enjoyable twelve weeks, my love of coding has only increased and I am extremely excited to get into my first junior developer role.
 
 ## Project showcase
 
@@ -25,7 +25,7 @@ Makers Academy was as much about learning how to learn as it was about learning 
 
 #### Working in different group sizes
 
-- Over the course of my career, I have worked in different team sizes ranging from 3-4 people at my last role, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own and part of a team and have always formed strong working relationships with colleauges in every role.
+- Over the course of my career, I have worked in different sized teams ranging from 3-4 people at my last role, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own or as part of a team and have always formed strong working relationships with colleagues in every role.
 
 - Pair programming and group work was a big part of the Makers curriculum. I enjoy working in a pair, whether I am driving or navigating, and am comfortable following the agile methodology when working as part of a group.
 
@@ -34,6 +34,7 @@ Makers Academy was as much about learning how to learn as it was about learning 
 #### Makers Academy (March 2019 - June 2019)
 
 - Web development bootcamp with an emphasis on self directed learning
+- Very selective - only accepts 25 new students a month
 - TDD and code quality at the core of every project 
 - Regular pair programming and group work - encouraged to follow agile methodology
 
@@ -46,7 +47,7 @@ Makers Academy was as much about learning how to learn as it was about learning 
 **AusDiagnostics** (August 2016 - March 2019)
 Engineer/Production Assistant/Customer Support
 - Started as a production assistant but was asked to take on the role of engineer.
-- Had to teach myself how to service and repair the inhouse liquid handling robots
+- Taught myself how to service and repair the inhouse liquid handling robots
 - Wrote scripts for the robots so that each product could be made differently
 
 **Histology Department @ Wycombe General Hospital** (January 2013 – August 2016)
@@ -61,5 +62,5 @@ Online Poker Marketing Intern
 
 ## Interests
 
-- Keen musician - PLay guitar, bass and drums in a variety of bands, as well as regular performances at Hip Hop Karaoke!
+- Keen musician - Play guitar, bass and drums in a variety of bands, as well as regular performances at Hip Hop Karaoke!
 - Enjoy watching and playing American Football
