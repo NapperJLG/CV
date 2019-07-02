@@ -1,7 +1,17 @@
 ## Jake Napper 
 ### [GitHub](https://github.com/NapperJLG) // [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
 
-I get a kick out of problem solving, seek to work with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. I've gone from making basic websites in HTML and CSS in my spare time to writing scripts for liquid handling robots at a medical diagnostics company. This journey led me to realise that that coding was something I was passionate about and wanted to pursue as a career. As an engineer, I knew I wouldn't get the opportunity to code as much as I would like. I decided to take a leap of faith and enroll at Makers Academy to give me that first step into the world of professional software development. After an intense and incredibly enjoyable twelve weeks, I am comfortable using Javascript and Ruby for both front-end and back-end development. I have also picked up and developed an appreciation for several underlying developer skills and principles, such as TDD, OOP, version control, high code quality, pair programming and working in an Agile environment. My love of coding has only increased since I started the course and I am extremely excited to get into my first junior developer role.
+I get a kick out of problem solving, working with brand new technology as it becomes available and love the idea of getting involved in a forward thinking industry. Having worked for a number of years as an engineer for a medical diagnostics company, writing scripts for liquid handling robots, I decided to make the move into web development. I enrolled at Makers Academy in order to bring my skills into line with the latest technologies, and I am keen to join a dynamic and forward thinking company in the industry.
+
+I originally taught myself to code in my spare time, building websites in HTML/CSS, before taking on a technical role with AusDiagnostics. This path led me to realise that that coding was something I was passionate about and wanted to pursue as a full time career. As an engineer, I knew I wouldn't get the opportunity to write as much code as I would like. I decided to take a leap of faith and enroll at Makers Academy to give me that first step into the world of professional web development. After an intense and incredibly enjoyable twelve weeks, I am comfortable using a number of Javascript frameworks and Ruby for both front-end and back-end development. I have also developed a strong foundation in TDD, OOP, version control(git), pair programming and Agile methodologies. My love of coding has only increased since I started the course and I am extremely excited to get into my first junior web developer role.
+
+## Technical Skills
+
+- HTML5/CSS3
+- Javascript (Express/Karma/Tone.js/Cypress/Jasmine)
+- Ruby/Rails
+- RSpec/Capybara
+- SQL
 
 ## Project showcase
 
@@ -10,17 +20,17 @@ Project | Description | Tech Used | GitHub link
 [Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
 [AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
 
-## Skills
+## Other Skills
 
 #### Troubleshooting & Problem solving
 
-- In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time. I feel that this skill has translated well to coding and that I could debug any issue with a combination of my own knowledge and online resources.
+- In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time. I take the same approach with web development and I would be confident in debugging issues with a combination of my own knowledge and online resources.
 
 #### Self Directed Learning
 
-- When I joined AusDiagnostics, the robots that I was tasked with maintaining had never had any maintainance performed on them before. Through reading the manual and a bit of trial and error, I wrote a monthly and biannual maintanance protocol for the robots. I then trained all new members of staff to follow these protocols.
+- When I joined AusDiagnostics, the robots that I was tasked with maintaining had never had any maintenance performed on them before. Through reading the manual and a bit of trial and error, I wrote a monthly and biannual maintenance protocol for the robots. I then trained all new members of staff to follow these protocols.
 
-- I started learning to code by teaching myself HTML/CSS via online tutorials. While these tutorials helped me discover my love of coding, I felt that joining Makers and working with other likeminded individuals would help me turn coding from a hobby into a career.
+- I originally learned to code by teaching myself HTML/CSS via online tutorials. While these tutorials helped me discover my love of coding, I felt that joining Makers and working with other likeminded individuals would help me make a career move into web development.
 Makers Academy was as much about learning how to learn as it was about learning how to code. Over the course of my time at Makers, I became confident in Ruby, Javascript and a variety of frameworks and libraries in both languages. There were several occasions when I went from not knowing a library or framework ([Acebook](https://github.com/NapperJLG/acebook-FiveGuys) - Rails, [Rhythm Is A Maker](https://github.com/NapperJLG/rhythm-is-a-maker) - Tone.js) to building a full stack app in the space of a couple of weeks.
 
 #### Working in different group sizes
