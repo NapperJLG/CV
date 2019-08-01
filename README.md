@@ -8,7 +8,7 @@ I originally taught myself to code in my spare time, building websites in HTML/C
 ## Technical Skills
 
 - HTML5/CSS3
-- Javascript (Express/Karma/Tone.js/Cypress/Jasmine)
+- Javascript (React/Express/Karma/Tone.js/Cypress/Jasmine)
 - Ruby/Rails
 - RSpec/Capybara
 - SQL
@@ -19,6 +19,7 @@ Project | Description | Tech Used | GitHub link
 ------- | ----------- | --------- | ----------
 [Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
 [AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
+[MTG Life Counter](https://mtg-life-counter-react.herokuapp.com/) | App for tracking life totals in a game of Magic:The Gathering | React | https://github.com/NapperJLG/mtg-life-counter-react
 
 ## Other Skills
 
