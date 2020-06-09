@@ -3,7 +3,7 @@
 
 I get a kick out of problem solving, working with brand new technology as it becomes available and enjoy being involved in a forward thinking industry. Having worked for a number of years as an engineer for a medical diagnostics company, writing scripts for liquid handling robots, I decided to make the move into web development. I enrolled at Makers Academy in order to bring my skills into line with the latest technologies, graduating from the course in June 2019 and getting my first software engineer role at Dacast two months later.
 
-While at Dacast, I was involved in building their brand new app from building the component library, building the pages and fixing bugs before release. Over the course of this project, I have had the opportunity to broaden my knowledge of React and learn some new technologies, such as Redux and Typescript. While I have greatly enjoyed my time at Dacast, I am ready for new challenges, new learning opportunities and new projects for me to bring value to.
+While at Dacast, I have been involved in launching their brand new app from building the component library, constructing the pages and fixing bugs before release. Over the course of this project, I have had the opportunity to broaden my knowledge of React and learn some new technologies, such as Redux and Typescript. While I have greatly enjoyed my time at Dacast, I am ready for new challenges, new learning opportunities and new projects for me to bring value to.
 
 ## Technical Skills
 
@@ -39,7 +39,7 @@ Makers Academy was as much about learning how to learn as it was about learning 
 
 #### Working in different group sizes
 
-- Over the course of my career, I have worked in different sized teams ranging from 3-4 people at my last role, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own or as part of a team and have always formed strong working relationships with colleagues in every role.
+- Over the course of my career, I have worked in different sized teams ranging from 3-4 people at Ausdiagnostics, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own or as part of a team and have always formed strong working relationships with colleagues in every role.
 
 - Pair programming and group work was a big part of the Makers curriculum. I enjoy working in a pair, whether I am driving or navigating, and am comfortable following the agile methodology when working as part of a group.
 
@@ -57,6 +57,14 @@ Makers Academy was as much about learning how to learn as it was about learning 
 - BSc Biomedical Science
 
 ## Experience
+
+**Dacast** (August 2019 - Present)
+Frontend Engineer
+- Inolved from the beginning in developing their brand new Video On Demand and Livestream platform from start to finish - primarily coding using Typescript, React and Redux.
+- Worked closely with the UX designer to develop a component library and build the pages of the site based on provided mockups
+- I was one of only two frontend engineers when I started, which forced me to learn very quickly and to take control of my own learning.
+- A large portion of the team is based in San Francisco - regular contact with their developers has allowed me to develop my communication and remote pair programming skills.
+- Have been forced to finish this project while working remotely due to the coronavirus outbreak - I am perfectly comfortable with both working remotely and working with the rest of the team in the office.
 
 **AusDiagnostics** (August 2016 - March 2019)
 Engineer/Production Assistant/Customer Support
