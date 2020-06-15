@@ -24,7 +24,7 @@ Project | Description | Tech Used | GitHub link
 
 #### Troubleshooting & Problem solving
 
-- A large part of developing the new app at Dacast has been fixing the inevitable bugs that crop up. When taking a ticket for a bug, it will also often mean working on somebody elses code. Over the course of the project, I have developed the ability to get to grips with whats going on in code that isn't my own and debug issues using developer tools.
+- A large part of developing the new app at Dacast has been fixing the inevitable bugs that crop up. When taking a ticket for a bug, it will also often mean working on somebody else's code. Over the course of the project, I have developed the ability to get to grips with whats going on in code that isn't my own and debug issues using developer tools.
 
 - In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time. I take the same approach with web development and I would be confident in debugging issues with a combination of my own knowledge and online resources.
 
@@ -60,7 +60,7 @@ Makers Academy was as much about learning how to learn as it was about learning 
 
 **Dacast** (August 2019 - Present)
 Frontend Engineer
-- Inolved from the beginning in developing their brand new Video On Demand and Livestream platform from start to finish - primarily coding using Typescript, React and Redux.
+- Involved from the beginning in developing their brand new Video On Demand and Livestream platform from start to finish - primarily coding using Typescript, React and Redux.
 - Worked closely with the UX designer to develop a component library and build the pages of the site based on provided mockups
 - I was one of only two frontend engineers when I started, which forced me to learn very quickly and to take control of my own learning.
 - A large portion of the team is based in San Francisco - regular contact with their developers has allowed me to develop my communication and remote pair programming skills.
