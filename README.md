@@ -3,7 +3,7 @@
 
 I get a kick out of problem solving, working with brand new technology as it becomes available and enjoy being involved in a forward thinking industry. Having worked for a number of years as an engineer for a medical diagnostics company, writing scripts for liquid handling robots, I decided to make the move into web development. I enrolled at Makers Academy in order to bring my skills into line with the latest technologies, graduating from the course in June 2019 and getting my first software engineer role at Dacast two months later.
 
-While at Dacast, I have been involved in launching their brand new app from building the component library, constructing the pages and fixing bugs before and after release. Over the course of this project, I have had the opportunity to broaden my knowledge of React and learn some new technologies, such as Redux and Typescript. As my confidence as a developer grew, I took the initiative to get more involved with the backend and learn Go. This allowed me to take the pressure off of our dedicated backend developers by fixing bugs and writing API endpoints to connect to the frontend part of the app. While I have greatly enjoyed my time at Dacast, I am ready for new challenges, new learning opportunities and new projects to which I can add value.
+During my time at Dacast and Picfair, I have been given the chance to work with a wide variety of technologies across the stack. I enjoyed getting involved in greenfield projects, as well as helping to improve existing parts of both apps. Over the last year, I have also started researching Web 3 technologies and am very excited by what the future holds for that space. I would love for my next role to be in the bleeding edge world of Web 3, allowing me to lay the foundations for what I believe will be a very important technology in the coming years. 
 
 
 ## Technical Skills
@@ -13,6 +13,9 @@ While at Dacast, I have been involved in launching their brand new app from buil
 - React/Redux
 - Styled Components
 - Go
+- Ruby/Rails
+- Lua
+- AWS (EC2)
 
 ## Project showcase
 
@@ -26,11 +29,15 @@ Project | Description | Tech Used | GitHub link
 
 #### Troubleshooting & Problem solving
 
+- When building an Adobe Lightroom plugin at Picfair, I found the Lua debugging tools to be severely lacking. I had to develop a deep understanding of my own code and get creative with debugging on the rails backend in order to overcome any issues during the project.
+
 - A large part of developing the new app at Dacast has been fixing the inevitable bugs that crop up. When taking a ticket for a bug, it will also often mean working on somebody else's code. Over the course of the project, I have developed the ability to get to grips with code that isn't my own and debug issues using developer tools.
 
 - In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time. I take the same approach with web development and I would be confident in debugging issues with a combination of my own knowledge and online resources.
 
 #### Self Directed Learning
+
+- I have a strong interest in Web 3 technologies and spend a lot of time outside of work doing my own research. This has led to me taking the lead on an NFT project at Picfair.
 
 - When I first joined Dacast, I started out working on their legacy platform written in Angular JS. I had no knowledge of Angular before I started. By reading through docs and online tutorials, I was able to understand the framework and complete the tasks assigned to me.
 
@@ -61,7 +68,14 @@ Project | Description | Tech Used | GitHub link
 
 ## Experience
 
-**Dacast** (August 2019 - Present)
+**Picfair** (April 2021 - Present)
+Software Engineer
+- My first full stack role - Rails backend and React frontend
+- Helped to build the first part of the app to be written in React - the rest of the app is written in Rails which I had to learn as I went along.
+- Built an Adobe Lightroom plugin from scratch that allows users to upload photos to our app directly from Lightroom - written in Lua which I hadn't used before starting the project.
+- Very involved in mapping out a plan for allowing our users to mint their pictures as NFTs - my interest in Web 3 technology meant I was chosen to lead on the project
+
+**Dacast** (August 2019 - April 2021)
 Frontend Engineer
 - Involved in developing their brand new Video On Demand and Livestream platform from start to finish - primarily coding using Typescript, React and Redux.
 - Worked closely with the UX designer to develop a component library and build the pages of the site based on provided mockups
