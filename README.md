@@ -12,10 +12,11 @@ During my time at Dacast and Picfair, I have been given the chance to work with 
 - Typescript
 - React/Redux
 - Styled Components
-- Go
 - Ruby/Rails
+- SQL
 - Lua
 - AWS (EC2)
+- Go
 
 ## Project showcase
 
