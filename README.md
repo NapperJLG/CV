@@ -18,14 +18,6 @@ During my time at Dacast and Picfair, I have been given the chance to work with 
 - AWS (EC2)
 - Go
 
-## Project showcase
-
-Project | Description | Tech Used | GitHub link
-------- | ----------- | --------- | ----------
-[Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
-[AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
-[MTG Life Counter](https://mtg-life-counter-react.herokuapp.com/) | App for tracking life totals in a game of Magic:The Gathering | React, Bootstrap | https://github.com/NapperJLG/mtg-life-counter-react
-
 ## Other Skills
 
 #### Troubleshooting & Problem solving
@@ -53,6 +45,14 @@ Project | Description | Tech Used | GitHub link
 - Over the course of my career, I have worked in different sized teams ranging from 3-4 people at Ausdiagnostics, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own or as part of a team and have always formed strong working relationships with colleagues in every role.
 
 - Pair programming and group work was a big part of the Makers curriculum. I enjoy working in a pair, whether I am driving or navigating, and thrive when practicing agile methodology.
+
+## Project showcase
+
+Project | Description | Tech Used | GitHub link
+------- | ----------- | --------- | ----------
+[Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
+[AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
+[MTG Life Counter](https://mtg-life-counter-react.herokuapp.com/) | App for tracking life totals in a game of Magic:The Gathering | React, Bootstrap | https://github.com/NapperJLG/mtg-life-counter-react
 
 ## Education
 
