@@ -24,7 +24,7 @@ During my time at Dacast and Picfair, I have been given the chance to work with 
 
 - When building an Adobe Lightroom plugin at Picfair, I found the Lua debugging tools to be severely lacking. I had to develop a deep understanding of my own code and get creative with debugging on the rails backend in order to overcome any issues during the project.
 
-- A large part of developing the new app at Dacast has been fixing the inevitable bugs that crop up. When taking a ticket for a bug, it will also often mean working on somebody else's code. Over the course of the project, I have developed the ability to get to grips with code that isn't my own and debug issues using developer tools.
+- A large part of developing the new app at Dacast was fixing the inevitable bugs that crop up. When taking a ticket for a bug, it often meant working on somebody else's code. Over the course of the project, I developed the ability to get to grips with code that wasn't my own and debug issues using developer tools.
 
 - In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time. I take the same approach with web development and I would be confident in debugging issues with a combination of my own knowledge and online resources.
 
