@@ -54,6 +54,7 @@ Online Poker Marketing Intern
 
 Project | Description | Tech Used | GitHub link
 ------- | ----------- | --------- | ----------
+[xLivelyFPL](xlivelyfpl.web.app) | Fantasy fooball blog | Astro, SCSS, Firebase | https://github.com/NapperJLG/xLively-FPL-Astro
 [What's On?](https://whats-on-5c86e.web.app/) | Browse the list of currently showing films from The Movie Database API | Typescript, React, Styled Components | https://github.com/NapperJLG/whats-on
 [Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
 [AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
