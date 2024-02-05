@@ -1,72 +1,21 @@
 ## Jake Napper 
+
 ### [GitHub](https://github.com/NapperJLG) // [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
 
-I get a kick out of problem solving, working with brand new technology as it becomes available and enjoy being involved in a forward thinking industry. Having worked for a number of years as an engineer for a medical diagnostics company, writing scripts for liquid handling robots, I decided to make the move into web development. I enrolled at Makers Academy in order to bring my skills into line with the latest technologies, graduating from the course in June 2019 and getting my first software engineer role at Dacast two months later.
-
-During my time at Dacast and Picfair, I have been given the chance to work with a wide variety of technologies across the stack. I enjoyed getting involved in greenfield projects, as well as helping to improve existing parts of both apps. Over the last year, I have also started researching Web 3 technologies and am very excited by what the future holds for that space. I would love for my next role to be in the bleeding edge world of Web 3, allowing me to lay the foundations for what I believe will be a very important technology in the coming years. 
-
+I get a kick out of problem solving, working with brand new technology as it becomes available and enjoy being involved in a forward thinking industry. Having worked for a number of years as an engineer for a medical diagnostics company, writing scripts for liquid handling robots, I decided to make the move into web development. I enrolled at Makers Academy in order to bring my skills into line with the latest technologies, graduating from the course in June 2019 and getting my first software engineer role at Dacast two months later. Since then, I have worked with several different companies and have been given the chance to work with a wide variety of technologies across the stack. I have enjoyed getting involved in greenfield projects, as well as helping to improve existing legacy apps. With a wealth of experience under my belt, I would ideally like to work in a more senior capacity and help to mentor more junior members of the development team.
 
 ## Technical Skills
 
 - HTML5/CSS3/Javascript
 - Typescript
 - React/Redux
+- Tailwind
 - Styled Components
 - Ruby/Rails
 - SQL
 - Lua
 - AWS (EC2)
 - Go
-
-## Other Skills
-
-#### Troubleshooting & Problem solving
-
-- When building an Adobe Lightroom plugin at Picfair, I found the Lua debugging tools to be severely lacking. I had to develop a deep understanding of my own code and get creative with debugging on the rails backend in order to overcome any issues during the project.
-
-- A large part of developing the new app at Dacast was fixing the inevitable bugs that crop up. When taking a ticket for a bug, it often meant working on somebody else's code. Over the course of the project, I developed the ability to get to grips with code that wasn't my own and debug issues using developer tools.
-
-- In my previous role as an engineer at a medical diagnostics company, I was tasked with keeping the in-house liquid dispensing robots running at full capacity. They were almost constantly in use over the course of the working day and problems would often arise seemingly at random. I had to narrow down the cause of the issue, fix it and verify that the robot was suitable for use again in a timely fashion to prevent any loss in production time. I take the same approach with web development and I would be confident in debugging issues with a combination of my own knowledge and online resources.
-
-#### Self Directed Learning
-
-- I have a strong interest in Web 3 technologies and spend a lot of time outside of work doing my own research. This has led to me taking the lead on an NFT project at Picfair.
-
-- When I first joined Dacast, I started out working on their legacy platform written in Angular JS. I had no knowledge of Angular before I started. By reading through docs and online tutorials, I was able to understand the framework and complete the tasks assigned to me.
-
-- The backend engineers at Dacast are based in San Francisco. This meant I often found myself blocked if there were backend bugs. I decided to take the time to learn Go, which allowed me to identify and fix these bugs, improving the efficiency of my workflow.
-
-- When I joined AusDiagnostics, the robots that I was tasked with maintaining had never had any maintenance performed on them before. Through reading the manual and experimentation, I wrote a monthly and biannual maintenance protocol for the robots. I then trained all new members of staff to follow these protocols.
-
-- I originally learned to code by teaching myself HTML/CSS via online tutorials. While these tutorials helped me to discover my love of coding, I felt that joining Makers and working with other likeminded individuals would allow me to move my career into web development. Makers Academy was as much about learning how to learn as it was about learning how to code. Over the course of my time at Makers, I became confident in Ruby, Javascript and a variety of frameworks and libraries in both languages. There were several occasions when I went from not knowing a library or framework ([Acebook](https://github.com/NapperJLG/acebook-FiveGuys) - Rails, [Rhythm Is A Maker](https://github.com/NapperJLG/rhythm-is-a-maker) - Tone.js) to building a full stack app in the space of a couple of weeks. Learning and applying new languages and frameworks to my work gives me a great sense of satisfaction.
-
-#### Working in different group sizes
-
-- Over the course of my career, I have worked in different sized teams ranging from 3-4 people at Ausdiagnostics, up to 20+ peole in an NHS laboratory. I am equally comfortable working on my own or as part of a team and have always formed strong working relationships with colleagues in every role.
-
-- Pair programming and group work was a big part of the Makers curriculum. I enjoy working in a pair, whether I am driving or navigating, and thrive when practicing agile methodology.
-
-## Project showcase
-
-Project | Description | Tech Used | GitHub link
-------- | ----------- | --------- | ----------
-[What's On?](https://whats-on-5c86e.web.app/) | Browse the list of currently showing films from The Movie Database API | Typescript, React, Styled Components | https://github.com/NapperJLG/whats-on
-[Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
-[AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
-[MTG Life Counter](https://mtg-life-counter-react.herokuapp.com/) | App for tracking life totals in a game of Magic:The Gathering | React, Bootstrap | https://github.com/NapperJLG/mtg-life-counter-react
-
-## Education
-
-#### Makers Academy (March 2019 - June 2019)
-
-- Web development bootcamp with an emphasis on self directed learning
-- Very selective - only accepts 25 new students a month
-- TDD and code quality at the core of every project 
-- Regular pair programming and group work - encouraged to follow agile methodology
-
-#### University of Kent (September 2010 - June 2012)
-
-- BSc Biomedical Science
 
 ## Experience
 
@@ -100,6 +49,28 @@ Biomedical Scientist (Band 5)
 Online Poker Marketing Intern
 - Researched and wrote poker and sports articles for a number of different WordPress websites under the ArmChair brand
 - Went to poker tournaments and conducted interviews with pro players for use in my articles
+
+## Project showcase
+
+Project | Description | Tech Used | GitHub link
+------- | ----------- | --------- | ----------
+[What's On?](https://whats-on-5c86e.web.app/) | Browse the list of currently showing films from The Movie Database API | Typescript, React, Styled Components | https://github.com/NapperJLG/whats-on
+[Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
+[AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
+[MTG Life Counter](https://mtg-life-counter-react.herokuapp.com/) | App for tracking life totals in a game of Magic:The Gathering | React, Bootstrap | https://github.com/NapperJLG/mtg-life-counter-react
+
+## Education
+
+#### Makers Academy (March 2019 - June 2019)
+
+- Web development bootcamp with an emphasis on self directed learning
+- Very selective - only accepts 25 new students a month
+- TDD and code quality at the core of every project 
+- Regular pair programming and group work - encouraged to follow agile methodology
+
+#### University of Kent (September 2010 - June 2012)
+
+- BSc Biomedical Science
 
 ## Interests
 
