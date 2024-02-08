@@ -9,6 +9,7 @@ I get a kick out of problem solving, working with brand new technology as it bec
 - HTML5/CSS3/Javascript
 - Typescript
 - React/Redux
+- RxJS
 - Tailwind
 - Styled Components
 - Ruby/Rails
@@ -18,6 +19,13 @@ I get a kick out of problem solving, working with brand new technology as it bec
 - Go
 
 ## Experience
+
+**Celer Technologies** (October 2022 - Present)
+React Developer
+- Worked on the React version of the existing Market Maker java app
+- Acted as project manager for the above project - writing jiras, giving them story points and assigning work to other devs as well as completing my own dev work.
+- Helped to move away from using Material UI components and build our own component library in Storybook using Tailwind CSS
+- Joined the dev support rota - helping members of the support team track down the source of issues reported by users and help to resolve them.
 
 **Picfair** (April 2021 - Present)
 Software Engineer
@@ -54,7 +62,7 @@ Online Poker Marketing Intern
 
 Project | Description | Tech Used | GitHub link
 ------- | ----------- | --------- | ----------
-[xLivelyFPL](xlivelyfpl.web.app) | Fantasy fooball blog | Astro, SCSS, Firebase | https://github.com/NapperJLG/xLively-FPL-Astro
+[xLivelyFPL](xlivelyfpl.web.app) | Fantasy football blog | Astro, SCSS, Firebase | https://github.com/NapperJLG/xLively-FPL-Astro
 [What's On?](https://whats-on-5c86e.web.app/) | Browse the list of currently showing films from The Movie Database API | Typescript, React, Styled Components | https://github.com/NapperJLG/whats-on
 [Rhythm Is A Maker](https://rhythm-is-a-maker.herokuapp.com/) | Drum sequencer, synth, chat program and all around good time | Javascript (Tone.js), Express, Jasmine, Karma, Cypress | https://github.com/NapperJLG/rhythm-is-a-maker
 [AceBook](https://secret-forest-11009.herokuapp.com/) | Facebook clone | Rails, PostgreSQL, RSpec, Capybara | https://github.com/NapperJLG/acebook-FiveGuys
