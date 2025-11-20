@@ -1,46 +1,49 @@
-## Jake Napper 
+## Jake Napper-Jones 
 
 ### [GitHub](https://github.com/NapperJLG) // [LinkedIn](https://www.linkedin.com/in/jake-napper-4780595a/)
 
-I get a kick out of problem solving, working with brand new technology as it becomes available and enjoy being involved in a forward thinking industry. Having worked for a number of years as an engineer for a medical diagnostics company, writing scripts for liquid handling robots, I decided to make the move into web development. I enrolled at Makers Academy in order to bring my skills into line with the latest technologies, graduating from the course in June 2019 and getting my first software engineer role at Dacast two months later. Since then, I have worked with several different companies and have been given the chance to work with a wide variety of technologies across the stack. I have enjoyed getting involved in greenfield projects, as well as helping to improve existing legacy apps. With a wealth of experience under my belt, I would ideally like to work in a more senior capacity and help to mentor more junior members of the development team.
+6+ years of experience delivering web and mobile applications using React, React Native and Flutter. Lead Developer at Gemstone IT, driving architecture decisions, mentoring junior engineers, and shipping cross-platform applications for multiple clients. Strong background in greenfield development, legacy modernisation, component libraries, and cross-team collaboration. Passionate about clean code, developer experience, and scalable product design.
 
 ## Technical Skills
 
-- HTML5/CSS3/Javascript
-- Typescript
-- React/Redux
-- RxJS
-- Tailwind
-- Styled Components
-- Ruby/Rails
-- SQL
-- Lua
-- AWS (EC2)
-- Go
+**Frontend**: React, Redux, Typescript, Tailwind, Styled Components, Angular, Astro
+**Mobile**: React Native, Expo, Flutter
+**Backend**: Symfony, Ruby on Rails, Node.js, Go, SQL
+**Cloud & DevOps**: Docker, CircleCI, AWS (EC2), Firebase
+**Testing**: Jest, Cypress, RSpec, Jasmine, Karma
+**Other**: RxJS, Lua, Storybook, WordPress
 
 ## Experience
 
-**Celer Technologies** (October 2022 - Present)
+**Gemstone IT** (June 2024 - Present)
+Lead Developer
+- Leading development across multiple web and mobile projects, defining architecture, code standards, and delivery strategy.
+- Embedded into external client teams to accelerate development, introduce best practices, and improve long-term maintainability.
+- Ran project planning from concept to delivery, including technical scoping, sprint planning, and backlog management.
+- Acting as Scrum Master, facilitating daily stand-ups, retrospectives and cross-team communication.
+- Mentoring two apprentices, providing code reviews, pairing sessions, and monthly growth checkpoints.
+- Delivered apps across React, React Native, Flutter, Wordpress and Angular optimising for performance, security, reliability, and scalability.
+
+**Celer Technologies** (October 2022 - June 2024)
 React Developer
-- Worked on the React version of the existing Market Maker java app
-- Acted as project manager for the above project - writing jiras, giving them story points and assigning work to other devs as well as completing my own dev work.
-- Helped to move away from using Material UI components and build our own component library in Storybook using Tailwind CSS
-- Joined the dev support rota - helping members of the support team track down the source of issues reported by users and help to resolve them.
+- Led the React rebuild of the existing Market Maker Java application, improving UI performance and maintainability.
+- Acted as project manager: created tickets, estimated story points, coordinated developer workload and delivery timelines.
+- Designed and built a Tailwind-based component library in Storybook to replace Material UI, improving design consistency and reducing bundle size.
+- Participated in dev support rota, diagnosing production issues and debugging complex trading workflows.
 
 **Picfair** (April 2021 - Present)
 Software Engineer
-- My first full stack role - Rails backend and React frontend
-- Helped to build the first part of the app to be written in React - the rest of the app is written in Rails which I had to learn as I went along.
-- Built an Adobe Lightroom plugin from scratch that allows users to upload photos to our app directly from Lightroom - written in Lua which I hadn't used before starting the project.
-- Very involved in mapping out a plan for allowing our users to mint their pictures as NFTs - my interest in Web 3 technology meant I was chosen to lead on the project
+- Developed key features across a Rails backend and React frontend, contributing to the company’s first migration into React.
+- Built an Adobe Lightroom plugin from scratch using Lua, enabling direct photo uploads and streamlining photographer workflows.
+- Led early technical exploration and architecture for the company’s NFT-based photo minting system.
+- Shipped customer-facing features end-to-end, from schema design to frontend UI implementation.
 
 **Dacast** (August 2019 - April 2021)
 Frontend Engineer
-- Involved in developing their brand new Video On Demand and Livestream platform from start to finish - primarily coding using Typescript, React and Redux.
-- Worked closely with the UX designer to develop a component library and build the pages of the site based on provided mockups
-- I was one of only two front-end engineers when I started, which forced me to learn very quickly and to take control of my own learning.
-- A large portion of the team is based in San Francisco - regular contact with their developers has allowed me to develop my communication and remote pair programming skills.
-- I was forced to finish this project while working remotely due to the coronavirus outbreak - I am perfectly comfortable with both working remotely and working with the rest of the team in the office.
+- One of two early frontend engineers building the company’s new VOD & Livestreaming platform with React/TS.
+- Collaborated closely with designers to produce a scalable component library with Storybook.
+- Developed major product features independently and via remote collaboration with the San Francisco engineering team.
+- Successfully delivered the platform launch during the COVID lockdown, handling remote delivery and cross-timezone development.
 
 **AusDiagnostics** (August 2016 - March 2019)
 Engineer/Production Assistant/Customer Support
