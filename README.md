@@ -7,10 +7,15 @@
 ## Technical Skills
 
 **Frontend**: React, Redux, Typescript, Tailwind, Styled Components, Angular, Astro
+
 **Mobile**: React Native, Expo, Flutter
+
 **Backend**: Symfony, Ruby on Rails, Node.js, Go, SQL
+
 **Cloud & DevOps**: Docker, CircleCI, AWS (EC2), Firebase
+
 **Testing**: Jest, Cypress, RSpec, Jasmine, Karma
+
 **Other**: RxJS, Lua, Storybook, WordPress
 
 ## Experience
