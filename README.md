@@ -29,7 +29,7 @@
 - Designed and built a Tailwind-based component library in Storybook to replace Material UI, improving design consistency and reducing bundle size.
 - Participated in dev support rota, diagnosing production issues and debugging complex trading workflows.
 
-### Picfair (April 2021 - Present) — *Software Engineer*
+### Picfair (April 2021 - October 2022) — *Software Engineer*
 - Developed key features across a Rails backend and React frontend, contributing to the company’s first migration into React.
 - Built an Adobe Lightroom plugin from scratch using Lua, enabling direct photo uploads and streamlining photographer workflows.
 - Led early technical exploration and architecture for the company’s NFT-based photo minting system.
